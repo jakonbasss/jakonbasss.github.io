@@ -39,14 +39,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-
-
-ziAQxu54B
+BD4gp
