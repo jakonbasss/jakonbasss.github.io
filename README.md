@@ -35,20 +35,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HDRf6oH1w
+ldTRTll
