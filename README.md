@@ -39,17 +39,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-7avANRbS
-
-v1iCl
+HNTLaF2tBK
