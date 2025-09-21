@@ -23,38 +23,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8HGmDx
+YeoYoSX
