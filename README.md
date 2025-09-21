@@ -61,12 +61,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-qVy8n
+y8CKzI
