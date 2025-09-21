@@ -37,16 +37,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-qkuryo51
+7eRcFpF0
