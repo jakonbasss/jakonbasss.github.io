@@ -33,4 +33,39 @@ Personal GitHub Pages site for jakonbasss
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 gDwU7
+
+2vu4FWR
