@@ -23,4 +23,29 @@ Personal GitHub Pages site for jakonbasss
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 YeoYoSX
+
+urGcoYhTAR
