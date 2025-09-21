@@ -33,22 +33,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-jSHkYVt
+Ooy55mn4cC
