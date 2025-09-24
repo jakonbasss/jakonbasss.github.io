@@ -114,12 +114,28 @@
 
         // 验证URL域名是否在白名单
         function isAllowedDomain(url) {
-            return true
             try {
-                const domain = new URL(url).hostname.replace('www.', '');
-                return WHITELIST_CONFIG.domains.some(allowedDomain => {
-                    return domain === allowedDomain ||
-                        domain.endsWith('.' + allowedDomain);
+                const domain = new URL(url).hostname
+                    .replace(/^www\./i, '')
+                    .toLowerCase();
+
+                return WHITELIST_CONFIG.domains.some(rawAllowedDomain => {
+                    const allowedDomain = (rawAllowedDomain || '').trim();
+
+                    if (!allowedDomain) {
+                        return false;
+                    }
+
+                    if (allowedDomain === '*') {
+                        return true;
+                    }
+
+                    const normalizedAllowedDomain = allowedDomain
+                        .replace(/^www\./i, '')
+                        .toLowerCase();
+
+                    return domain === normalizedAllowedDomain ||
+                        domain.endsWith('.' + normalizedAllowedDomain);
                 });
             } catch (e) {
                 console.error('URL解析失败:', e);
