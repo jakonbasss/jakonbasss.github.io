@@ -75,6 +75,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-ET7r3g
+5r4tu3
