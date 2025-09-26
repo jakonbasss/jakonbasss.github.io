@@ -73,6 +73,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-sAPGU
+3Flc2
