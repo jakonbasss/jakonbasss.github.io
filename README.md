@@ -39,22 +39,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-NQ9FRa
-
-
-PoNIsL
-
-U5US2Nvp
+gpbuZqc5
