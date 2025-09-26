@@ -41,11 +41,4 @@ Personal GitHub Pages site for jakonbasss
 
 
 
-
-
-
-
-
-Uqyst
-
-Y96mJ
+KlApWFt4V
