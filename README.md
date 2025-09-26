@@ -21,4 +21,27 @@ Personal GitHub Pages site for jakonbasss
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 JNayk
+
+KFZYgNfJ
